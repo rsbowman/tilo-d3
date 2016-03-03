@@ -1,0 +1,33 @@
+canvas, svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+svg {
+  font: 12px sans-serif;
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  fill: none;
+  stroke: #5a5a5a;
+  stroke-width: 1.5px;
+  pointer-events: none;
+}
+
+.link-bg {
+  fill: none;
+  stroke: #fff;
+  opacity: 0;
+  stroke-width: 14px;
+  pointer-events: stroke;
+}
+
+.label {
+  font: 16px Verdana, Geneva, sans-serif;
+}
