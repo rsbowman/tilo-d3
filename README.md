@@ -2,7 +2,7 @@
 
 This is code to accompany the blog post "Graph clustering, TILO, and
 interactive demos" on my blog; the url is
-http://seanbowman.me/blog/2016/tilo-demo/.  The algorithm is based on the
+http://seanbowman.me/blog/tilo-demo/.  The algorithm is based on the
 paper *Topological graph clustering with thin position* by Jesse Johnson.  Any
 mistakes are mine, anything cool is due to him.
 
